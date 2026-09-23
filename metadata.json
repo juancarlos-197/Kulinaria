@@ -1,0 +1,6 @@
+{
+  "name": "Kulinaria - Recetas Fáciles e Inteligentes",
+  "description": "Descubre recetas fáciles y rápidas basadas exactamente en los ingredientes disponibles en tu cocina, con instrucciones paso a paso y temporizador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
